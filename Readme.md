@@ -14,7 +14,7 @@ This project provides a simple way to mint NFTs, list their metadata, and get th
 
     ```bash
     git clone https://github.com/your-username/nft-minting-project.git
-    cd nft-minting-project
+    cd javascriptproject.js
     ```
 
 2. **Ensure you have Node.js installed:**
