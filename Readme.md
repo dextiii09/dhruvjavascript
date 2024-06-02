@@ -13,7 +13,7 @@ This project provides a simple way to mint NFTs, list their metadata, and get th
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/nft-minting-project.git
+    git clone https://github.com/dextiii09/dhruvjavascript/
     cd javascriptproject.js
     ```
 
